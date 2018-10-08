@@ -1,6 +1,6 @@
 let drink = "Energy drink";
 let lyrics = "";
-let cans = 99;
+let cans = 6;
 
 while (cans > 0) {
     lyrics = lyrics + cans + " cans of " + drink + " on the wall <br> ";

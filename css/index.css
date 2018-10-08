@@ -1,3 +1,17 @@
-p {
-    padding: 3px;
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
+ 
+body {
+    background-color: lightgrey;
+    }
+img {
+    float: left;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Charmonman', cursive;
+    font-size: bolder;
+    text-decoration: underline;
+
 }
